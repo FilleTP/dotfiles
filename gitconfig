@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = filip.tillberg.persson@gmail.com
+	name = Filip Persson
